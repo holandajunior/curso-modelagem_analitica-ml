@@ -1,0 +1,67 @@
+Aula 1
+
+- Modelagens analiticas de dados estruturados
+- Utilização adequada dos modelos
+- Conhecer cases com tais modelagens
+- Aplicar modelagem analitica a serie temporais
+- Modelagem de Deep Learning com series temporais demonstra melhores resultados que estatística clássica
+- Deep learning não consegue substituir os modelos da literatura bem sucedidos
+
+- Leitura e processamento de fontes diversas
+- Tratamento de outliers
+- Tratamento de valores nulos ou inválidos
+- Identificação e padronização de escala de valores
+- Identificar e codificar numericamente valores com categorias ou texto
+- Identificação da distribuição dos dados
+- Identificar correlação dos dados
+- Divisão do conjunto de dados em treinamento e teste
+
+
+-> Medidas de desempenho
+
+- Classificação
+	- Tabela de confusçao, acuracia, precisão, recall, grafico de curva ROC, precisão e recall tradeoff
+- Regressão
+	- RMSE(Root Mean Square Error)
+
+
+-> Validação e teste
+
+Validar: verificar no conjunto de dados de treinamento o modelo que foi treinado nele
+
+
+-> Otimização
+
+- Descobrir os valores adequados dos hiperparametros
+- Ténica de Grid Search
+
+-> Tipos de aprendizagem
+
+- Aprendizagem supervisionada
+- Aprendizagem não supervisionada
+
+
+-> Aprendizagem supervisionada
+
+- Regressão
+- Classificação  
+
+
+-> Regressão linear
+
+- Quando há uma relação direta ou indiretamente proporcional entre as variáveis independentes e a variável dependente
+
+
+
+Perguntas:
+
+- Já tem trabalhado com visualização em grande massa de dados? Quais libs?
+- Quais os processos comuns utilizados na correção/ajuste de outliers?
+-
+
+
+
+Wifi:
+
+usuário: evento
+senha: wifi7set1 
