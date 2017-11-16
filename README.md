@@ -1,7 +1,7 @@
 # Modelagem Analítica em Machine Learning
 <br/>
 Repositório do Curso de Modelagem Analítica em Machine Learning exercido de 13/11/2017 a 20/11/2017, com carga horária de 20h.
-Todo o conteúdo se encontra divido conforme os dias de curso.
+Todo o conteúdo se encontra dividido conforme os dias de curso.
 
 ### Conteúdo
 
